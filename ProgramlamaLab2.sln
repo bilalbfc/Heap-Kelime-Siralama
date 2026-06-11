@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramlamaLab2", "ProgramlamaLab2\ProgramlamaLab2.csproj", "{483F1C5E-ED4E-451F-8498-A025D9298EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramlamaLab2.Tests", "ProgramlamaLab2.Tests\ProgramlamaLab2.Tests.csproj", "{C43B278D-E804-4238-85EF-9EEE5DF2E542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483F1C5E-ED4E-451F-8498-A025D9298EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483F1C5E-ED4E-451F-8498-A025D9298EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483F1C5E-ED4E-451F-8498-A025D9298EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483F1C5E-ED4E-451F-8498-A025D9298EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43B278D-E804-4238-85EF-9EEE5DF2E542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43B278D-E804-4238-85EF-9EEE5DF2E542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43B278D-E804-4238-85EF-9EEE5DF2E542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43B278D-E804-4238-85EF-9EEE5DF2E542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E0C8B7-4A5F-40DC-9C77-A9D34633A4FB}
+	EndGlobalSection
+EndGlobal
